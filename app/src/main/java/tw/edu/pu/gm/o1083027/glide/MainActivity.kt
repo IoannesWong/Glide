@@ -1,4 +1,4 @@
-package tw.edu.pu.gm.o1083027.glide
+package tw.edu.pu.gm.o1083020.glide
 
 import android.graphics.Bitmap
 import android.graphics.Color
@@ -19,7 +19,9 @@ import jp.wasabeef.glide.transformations.ColorFilterTransformation
 import jp.wasabeef.glide.transformations.GrayscaleTransformation
 import jp.wasabeef.glide.transformations.RoundedCornersTransformation
 import jp.wasabeef.glide.transformations.gpu.SketchFilterTransformation
+import tw.edu.pu.gm.o1083027.glide.GlideApp
 import tw.edu.pu.gm.o1083027.glide.GlideOptions.bitmapTransform
+import tw.edu.pu.gm.o1083027.glide.R
 import java.lang.System.load
 
 @GlideModule
